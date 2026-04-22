@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/BoxProjectedCubemap.unity
+    guid: c9ff6e43aa3a62946985eabbdb7a4a6a
   m_configObjects: {}
